@@ -2,6 +2,7 @@
 // 2.让小鸟掉下来
 // 3.点击让小鸟上去
 // 4.出来柱子
+
 var scroll = document.querySelector('#scroll');
 var bird = document.querySelector('#wrap>img');
 var wrap = document.querySelector('#wrap');
