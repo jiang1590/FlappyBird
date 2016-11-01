@@ -1,0 +1,8 @@
+#wrap{width: 343px; height: 480px;margin: 0 auto;background: url('../image/bg.jpg');position: relative;overflow: hidden;}
+#wrap img{width: 40px; height: 26px;position: absolute; left: 50px; top:150px;}
+#wrap #scroll{width: 200%;height: 14px; background: url("../image/slider.jpg"); position: absolute;bottom: 43px;}
+#wrap #pipe .mypipe .up_mode{width: 62px;height: 70px;background: url("../image/up_mod.png");}
+#wrap #pipe .mypipe .up_pipe{width:62px;height: 60px;background: url("../image/up_pipe.png");}
+#wrap #pipe .mypipe .down_mode{width: 62px;height: 70px;background: url("../image/down_mod.png");}
+#wrap #pipe .mypipe .down_pipe{width:62px;height: 60px;background: url("../image/down_pipe.png");}
+#wrap #pipe .mypipe{position: absolute;}
